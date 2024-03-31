@@ -11,9 +11,9 @@
 ## Menu
 |Interface|Controls|
 |-----|-----|
-|![](./img/main_menu.jpg)|Use key0 to select and key1 to move to the next. Default to enter the current choice after waiting for 10 seconds|
-|![](./img/line_status.jpg)|Use key0 to refresh and key1 to exit to the main menu. Automatically refresh after 30 seconds|
-|![](./img/departures.jpg)|Use key0 to refresh (or automatically refresh) and key 1 to exit to the main menu. Automatically refresh after 10-15 seconds ($5\times n_\mathrm{lines}$)|
+|<img src="https://raw.githubusercontent.com/HCui91/pico_tfl_departure_board/main/img/main_menu.jpg" width="800" />|Use key0 to select and key1 to move to the next. Default to enter the current choice after waiting for 10 seconds|
+|<img src="https://raw.githubusercontent.com/HCui91/pico_tfl_departure_board/main/img/line_status.jpg" width="800" />|Use key0 to refresh and key1 to exit to the main menu. Automatically refresh after 30 seconds|
+|<img src="https://raw.githubusercontent.com/HCui91/pico_tfl_departure_board/main/img/departures.jpg" width="800" />|Use key0 to refresh (or automatically refresh) and key 1 to exit to the main menu. Automatically refresh after 10-15 seconds ($5\times n_\mathrm{lines}$)|
 
 ## Related projects
 - [framebuf2](https://github.com/peter-l5/framebuf2)
